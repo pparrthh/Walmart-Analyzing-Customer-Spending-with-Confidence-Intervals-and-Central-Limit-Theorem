@@ -23,15 +23,5 @@ This repository contains a detailed analysis of customer purchase behavior at Wa
 2. **Product Category Optimization**: Prioritize products in categories 5, 1, and 8, which have shown high purchase frequency, while exploring strategies to boost sales in underperforming categories.
 3. **City-Specific Strategies**: Enhance marketing efforts in City Category C, where customers exhibit higher spending, compared to Categories A and B.
 
-## How to Use This Repository
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/yourusername/Walmart-Confidence-Interval-CLT.git
-    ```
-2. **Explore the Jupyter Notebook**:
-    - Open `Walmart_Confidence_Interval_CLT.ipynb` to review the analysis, visualizations, and conclusions drawn from the data.
-3. **Analyze the Data**:
-    - Access the `Data Folder` for the dataset used in this study, and consider extending the analysis with additional demographic or purchase data.
-
 ## Contact
 For any questions or further discussions, please contact Parth Patel at parthpatel5340@gmail.com.
