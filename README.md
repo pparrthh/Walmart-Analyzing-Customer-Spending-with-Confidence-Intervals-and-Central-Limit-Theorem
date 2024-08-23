@@ -1,4 +1,4 @@
-# Walmart-Analyzing-Customer-Spending-with-Confidence-Intervals-and-Central-Limit-Theorem
+# Walmart Spending Analysis: CI & CLT
 
 ## Overview
 This repository contains a detailed analysis of customer purchase behavior at Walmart. The primary goal of this project is to investigate differences in spending habits across various demographics, including gender, age, and marital status. The analysis leverages statistical techniques like Confidence Intervals and the Central Limit Theorem (CLT) to derive insights and provide actionable recommendations.
